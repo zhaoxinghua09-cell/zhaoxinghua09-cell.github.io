@@ -1,0 +1,6 @@
+# robots.txt for zhaoxinghua09-cell.github.io (user-site root)
+# Allow all crawlers on the whole user site, including all project-site paths.
+User-agent: *
+Allow: /
+
+Sitemap: https://zhaoxinghua09-cell.github.io/sitemap.xml
